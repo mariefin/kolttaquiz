@@ -1,0 +1,172 @@
+[
+	{
+		"satni": "dohko",
+		"teema": "paikka",
+		"suomi": "sinne"
+	},
+	{
+		"satni": "dohko",
+		"teema": "paikka",
+		"suomi": "tuonne (kauas)"
+	},
+	{
+		"satni": "deike",
+		"teema": "paikka",
+		"suomi": "tänne"
+	},
+	{
+		"satni": "diehko",
+		"teema": "paikka",
+		"suomi": "sinne (lähelle puhuteltavaa)"
+	},
+	{
+		"satni": "dása",
+		"teema": "paikka",
+		"suomi": "tähän"
+	},
+	{
+		"satni": "duohko",
+		"teema": "paikka",
+		"suomi": "tuonne (kauas)"
+	},
+	{
+		"satni": "duosa",
+		"teema": "paikka",
+		"suomi": "tuohon"
+	},
+	{
+		"satni": "dáppelii",
+		"teema": "paikka",
+		"suomi": "täkemmäs"
+	},
+	{
+		"satni": "diebbelii",
+		"teema": "paikka",
+		"suomi": "sinnemmäs, lähemmäs puhuteltavaa"
+	},
+	{
+		"satni": "duobbelii",
+		"teema": "paikka",
+		"suomi": "tuonnemmas"
+	},
+	{
+		"satni": "dobbelii",
+		"teema": "paikka",
+		"suomi": "sinnemmäs, kauemmas"
+	},
+	{
+		"satni": "duohkot deike",
+		"teema": "paikka",
+		"suomi": "sinne tänne"
+	},
+	{
+		"satni": "doppe",
+		"teema": "paikka",
+		"suomi": "siellä, sieltä"
+	},
+	{
+		"satni": "dáppe",
+		"teema": "paikka",
+		"suomi": "täältä, täällä"
+	},
+	{
+		"satni": "dieppe",
+		"teema": "paikka",
+		"suomi": "siellä, sieltä (liku puhuteltavaa)"
+	},
+	{
+		"satni": "duoppe",
+		"teema": "paikka",
+		"suomi": "tuolla, tuolta"
+	},
+	{
+		"satni": "doppe",
+		"teema": "paikka",
+		"suomi": "tuolla, tuolta (kaukana)"
+	},
+	{
+		"satni": "dáppelis",
+		"teema": "paikka",
+		"suomi": "tännempänä"
+	},
+	{
+		"satni": "diebbelis",
+		"teema": "paikka",
+		"suomi": "sinnempänä, lähempänä puhulteltavaa"
+	},
+	{
+		"satni": "duobbelis",
+		"teema": "paikka",
+		"suomi": "tuonnempana"
+	},
+	{
+		"satni": "dobbelis",
+		"teema": "paikka",
+		"suomi": "sinnempänä, kauempana"
+	},
+	{
+		"satni": "dá",
+		"teema": "paikka",
+		"suomi": "tässä"
+	},
+	{
+		"satni": "die",
+		"teema": "paikka",
+		"suomi": "siinä"
+	},
+	{
+		"satni": "duo",
+		"teema": "paikka",
+		"suomi": "tuossa"
+	},
+	{
+		"satni": "do",
+		"teema": "paikka",
+		"suomi": "tuolla"
+	},
+	{
+		"satni": "doppil",
+		"teema": "paikka",
+		"suomi": "sieltä käsin"
+	},
+	{
+		"satni": "dáppil",
+		"teema": "paikka",
+		"suomi": "täältä näin"
+	},
+	{
+		"satni": "dieppil",
+		"teema": "paikka",
+		"suomi": "sieltä päin (läheltä puhuteltavaa)"
+	},
+	{
+		"satni": "duoppil",
+		"teema": "paikka",
+		"suomi": "tuolta noin"
+	},
+	{
+		"satni": "dakko",
+		"teema": "paikka",
+		"suomi": "sitä kautta, siitä ohi"
+	},
+	{
+		"satni": "dákko",
+		"teema": "paikka",
+		"suomi": "tätä kautta, tästä ohi"
+	},
+	{
+		"satni": "diekko",
+		"teema": "paikka",
+		"suomi": "siitä (ohi läheltä puhuteltavaa)"
+	},
+	{
+		"satni": "duokko",
+		"teema": "paikka",
+		"suomi": "tuota kautta, tuolta ohi"
+	},
+	{
+		"satni": "dokko",
+		"teema": "paikka",
+		"suomi": "tuolta (kaukaa ohi)"
+	}
+]
