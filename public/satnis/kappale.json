@@ -1,0 +1,1022 @@
+[
+	{
+		"saann": "tät",
+		"kappale": "kp1",
+		"suomi": "tämä"
+	},
+	{
+		"saann": "täʹst",
+		"kappale": "kp1",
+		"suomi": "tässä"
+	},
+	{
+		"saann": "leeʹd",
+		"kappale": "kp1",
+		"suomi": "olla"
+	},
+	{
+		"saann": "lij",
+		"kappale": "kp1",
+		"suomi": "on"
+	},
+	{
+		"saann": "neezzan",
+		"kappale": "kp1",
+		"suomi": "nainen, naiset, naisen"
+	},
+	{
+		"saann": "neezznest",
+		"kappale": "kp1",
+		"suomi": "naiselta"
+	},
+	{
+		"saann": "neezzna",
+		"kappale": "kp1",
+		"suomi": "naiselle"
+	},
+	{
+		"saann": "son",
+		"kappale": "kp1",
+		"suomi": "hän"
+	},
+	{
+		"saann": "suu",
+		"kappale": "kp1",
+		"suomi": "hänen"
+	},
+	{
+		"saann": "da",
+		"kappale": "kp1",
+		"suomi": "ja"
+	},
+	{
+		"saann": "ååum",
+		"kappale": "kp1",
+		"suomi": "mies"
+	},
+	{
+		"saann": "åumma",
+		"kappale": "kp1",
+		"suomi": "miehet, miehen"
+	},
+	{
+		"saann": "åummjest",
+		"kappale": "kp1",
+		"suomi": "mieheltä"
+	},
+	{
+		"saann": "åummja",
+		"kappale": "kp1",
+		"suomi": "miehelle"
+	},
+	{
+		"saann": "nõmm",
+		"kappale": "kp1",
+		"suomi": "nimi"
+	},
+	{
+		"saann": "nõõm",
+		"kappale": "kp1",
+		"suomi": "nimet, nimen"
+	},
+	{
+		"saann": "nõõmâst",
+		"kappale": "kp1",
+		"suomi": "nimestä"
+	},
+	{
+		"saann": "nõʹmme",
+		"kappale": "kp1",
+		"suomi": "nimeen"
+	},
+	{
+		"saann": "vueiʹnned",
+		"kappale": "kp1",
+		"suomi": "nähdä"
+	},
+	{
+		"saann": "vuäinn",
+		"kappale": "kp1",
+		"suomi": "näkee"
+	},
+	{
+		"saann": "vueiʹn",
+		"kappale": "kp1",
+		"suomi": "näe"
+	},
+	{
+		"saann": "ålggan",
+		"kappale": "kp1",
+		"suomi": "ulkona"
+	},
+	{
+		"saann": "åålgas",
+		"kappale": "kp1",
+		"suomi": "ulos"
+	},
+	{
+		"saann": "Njauddâm",
+		"kappale": "kp1",
+		"suomi": "Näätämö. Näätämön"
+	},
+	{
+		"saann": "Njauddmest",
+		"kappale": "kp1",
+		"suomi": "Näätämöstä"
+	},
+	{
+		"saann": "Njauddma",
+		"kappale": "kp1",
+		"suomi": "Näätämöön"
+	},
+	{
+		"saann": "kaupp",
+		"kappale": "kp1",
+		"suomi": "kauppa"
+	},
+	{
+		"saann": "kaaup",
+		"kappale": "kp1",
+		"suomi": "kaupat, kaupan"
+	},
+	{
+		"saann": "kauaupâst",
+		"kappale": "kp1",
+		"suomi": "kaupasta"
+	},
+	{
+		"saann": "kauʹppe",
+		"kappale": "kp1",
+		"suomi": "kauppaan"
+	},
+	{
+		"saann": "šellj",
+		"kappale": "kp1",
+		"suomi": "piha"
+	},
+	{
+		"saann": "šeellj",
+		"kappale": "kp1",
+		"suomi": "pihat, pihan"
+	},
+	{
+		"saann": "šeelljast",
+		"kappale": "kp1",
+		"suomi": "pihalla"
+	},
+	{
+		"saann": "šillju",
+		"kappale": "kp1",
+		"suomi": "pihalle"
+	},
+	{
+		"saann": "haaʹleed",
+		"kappale": "kp1",
+		"suomi": "haluta"
+	},
+	{
+		"saann": "haaʹlad",
+		"kappale": "kp1",
+		"suomi": "haluaa"
+	},
+	{
+		"saann": "tobdstõõttâd",
+		"kappale": "kp1",
+		"suomi": "tutustua"
+	},
+	{
+		"saann": "suin",
+		"kappale": "kp1",
+		"suomi": "hänen kanssaan"
+	},
+	{
+		"saann": "tobdstõõttâd suin",
+		"kappale": "kp1",
+		"suomi": "tutustua hänen kanssaan"
+	},
+	{
+		"saann": "tiõrv",
+		"kappale": "kp1",
+		"suomi": "terve"
+	},
+	{
+		"saann": "tobdstõõttmõš",
+		"kappale": "kp2",
+		"suomi": "tutustuminen"
+	},
+	{
+		"saann": "tobdstõõttmõõžž",
+		"kappale": "kp2",
+		"suomi": "tutustumiset, tutustumisen"
+	},
+	{
+		"saann": "tobdstõõttmõõžžâst",
+		"kappale": "kp2",
+		"suomi": "tutustumisesta"
+	},
+	{
+		"saann": "tobdstõõttmõʹšše",
+		"kappale": "kp2",
+		"suomi": "tutustumiseen"
+	},
+	{
+		"saann": "mon",
+		"kappale": "kp2",
+		"suomi": "minä"
+	},
+	{
+		"saann": "muu",
+		"kappale": "kp2",
+		"suomi": "minun, minua"
+	},
+	{
+		"saann": "leäm",
+		"kappale": "kp2",
+		"suomi": "olen"
+	},
+	{
+		"saann": "ǩii",
+		"kappale": "kp2",
+		"suomi": "kuka"
+	},
+	{
+		"saann": "ton",
+		"kappale": "kp2",
+		"suomi": "sinä"
+	},
+	{
+		"saann": "tuu",
+		"kappale": "kp2",
+		"suomi": "sinun, sinua"
+	},
+	{
+		"saann": "eʹčč",
+		"kappale": "kp2",
+		"suomi": "isä"
+	},
+	{
+		"saann": "eeʹjj",
+		"kappale": "kp2",
+		"suomi": "isät, isän"
+	},
+	{
+		"saann": "eeʹjjest",
+		"kappale": "kp2",
+		"suomi": "isällä"
+	},
+	{
+		"saann": "ečča",
+		"kappale": "kp2",
+		"suomi": "isälle"
+	},
+	{
+		"saann": "še",
+		"kappale": "kp2",
+		"suomi": "myõs, -kin"
+	},
+	{
+		"saann": "nuʹtt-i lij",
+		"kappale": "kp2",
+		"suomi": "niin on, juuri niin"
+	},
+	{
+		"saann": "hääʹsǩ",
+		"kappale": "kp2",
+		"suomi": "hauska, hauskaa"
+	},
+	{
+		"saann": "koʹst",
+		"kappale": "kp3",
+		"suomi": "missä, mistä"
+	},
+	{
+		"saann": "pueʹtted",
+		"kappale": "kp3",
+		"suomi": "tulla"
+	},
+	{
+		"saann": "puäđak",
+		"kappale": "kp3",
+		"suomi": "tulet"
+	},
+	{
+		"saann": "puäđam",
+		"kappale": "kp3",
+		"suomi": "tulen"
+	},
+	{
+		"saann": "puätt",
+		"kappale": "kp3",
+		"suomi": "tulee"
+	},
+	{
+		"saann": "puäʹđ",
+		"kappale": "kp3",
+		"suomi": "tule"
+	},
+	{
+		"saann": "juäʹtǩǩed",
+		"kappale": "kp3",
+		"suomi": "jatkaa"
+	},
+	{
+		"saann": "juätkk",
+		"kappale": "kp3",
+		"suomi": "jatkaa"
+	},
+	{
+		"saann": "jueʹtǩ",
+		"kappale": "kp3",
+		"suomi": "jatka"
+	},
+	{
+		"saann": "juäʹtǩǩe",
+		"kappale": "kp3",
+		"suomi": "jatkavat"
+	},
+	{
+		"saann": "mainstõõllmõš",
+		"kappale": "kp3",
+		"suomi": "jutustelu"
+	},
+	{
+		"saann": "mainstõõllmõõžž",
+		"kappale": "kp3",
+		"suomi": "jutustelua, jutustelun"
+	},
+	{
+		"saann": "suäna",
+		"kappale": "kp3",
+		"suomi": "he kaksi"
+	},
+	{
+		"saann": "haaʹled",
+		"kappale": "kp3",
+		"suomi": "halua"
+	},
+	{
+		"saann": "haaʹlee",
+		"kappale": "kp3",
+		"suomi": "haluavat"
+	},
+	{
+		"saann": "šiõǧǧ",
+		"kappale": "kp3",
+		"suomi": "hyvä"
+	},
+	{
+		"saann": "pueʹrab",
+		"kappale": "kp3",
+		"suomi": "parempi"
+	},
+	{
+		"saann": "pueʹrben",
+		"kappale": "kp3",
+		"suomi": "paremmin"
+	},
+	{
+		"saann": "jälsted",
+		"kappale": "kp3",
+		"suomi": "asua"
+	},
+	{
+		"saann": "jälstak",
+		"kappale": "kp3",
+		"suomi": "asut"
+	},
+	{
+		"saann": "jälstam",
+		"kappale": "kp3",
+		"suomi": "asun"
+	},
+	{
+		"saann": "jäälast",
+		"kappale": "kp3",
+		"suomi": "asuu"
+	},
+	{
+		"saann": "jäälast",
+		"kappale": "kp3",
+		"suomi": "asu"
+	},
+	{
+		"saann": "Čeʹvetjäuʹrr",
+		"kappale": "kp3",
+		"suomi": "Sevettijärvi"
+	},
+	{
+		"saann": "Čeʹvetjääuʹr",
+		"kappale": "kp3",
+		"suomi": "Sevettijärven"
+	},
+	{
+		"saann": "Čeʹvetjääuʹrest",
+		"kappale": "kp3",
+		"suomi": "Sevettijärvellä"
+	},
+	{
+		"saann": "Čeʹvetjäurra",
+		"kappale": "kp3",
+		"suomi": "Sevettijärveen, Sevettijärvelle"
+	},
+	{
+		"saann": "âs",
+		"kappale": "kp3",
+		"suomi": "pa, pä, puolestaan, vuorostaan"
+	},
+	{
+		"saann": "koʹst-âš",
+		"kappale": "kp3",
+		"suomi": "missä vuorostasi, mistä puolestasi"
+	},
+	{
+		"saann": "tääiʹben",
+		"kappale": "kp3",
+		"suomi": "täällä, täältä"
+	},
+	{
+		"saann": "puärraz",
+		"kappale": "kp3",
+		"suomi": "vanhemmat"
+	},
+	{
+		"saann": "puäʹtte",
+		"kappale": "kp3",
+		"suomi": "tulevat"
+	},
+	{
+		"saann": "lie",
+		"kappale": "kp4",
+		"suomi": "ovat"
+	},
+	{
+		"saann": "mainstõõllâd",
+		"kappale": "kp4",
+		"suomi": "keskustella, jutella"
+	},
+	{
+		"saann": "mainstââll",
+		"kappale": "kp4",
+		"suomi": "keskustelee, juttelee"
+	},
+	{
+		"saann": "siõmmneeʹžž",
+		"kappale": "kp4",
+		"suomi": "hetkisen"
+	},
+	{
+		"saann": "leâša",
+		"kappale": "kp4",
+		"suomi": "mutta"
+	},
+	{
+		"saann": "feʹrttjed",
+		"kappale": "kp4",
+		"suomi": "täytyä"
+	},
+	{
+		"saann": "feʹrttai",
+		"kappale": "kp4",
+		"suomi": "täytyy"
+	},
+	{
+		"saann": "jieʹlled",
+		"kappale": "kp4",
+		"suomi": "käydä"
+	},
+	{
+		"saann": "jeäll",
+		"kappale": "kp4",
+		"suomi": "käy "
+	},
+	{
+		"saann": "võl",
+		"kappale": "kp4",
+		"suomi": "vielä"
+	},
+	{
+		"saann": "muʹst",
+		"kappale": "kp4",
+		"suomi": "minulla, minulta"
+	},
+	{
+		"saann": "muʹst feʹrttai",
+		"kappale": "kp4",
+		"suomi": "minun täytyy"
+	},
+	{
+		"saann": "ǩiõrggned",
+		"kappale": "kp4",
+		"suomi": "keretä, ehtiä"
+	},
+	{
+		"saann": "ǩiõrggan",
+		"kappale": "kp4",
+		"suomi": "kerkeää, ehtii"
+	},
+	{
+		"saann": "ǩiõrggân",
+		"kappale": "kp4",
+		"suomi": "kerkeä, ehdi"
+	},
+	{
+		"saann": "vuõinnlõõttâd",
+		"kappale": "kp4",
+		"suomi": "tavata, nähdä"
+	},
+	{
+		"saann": "vuõinnlõõttâp",
+		"kappale": "kp4",
+		"suomi": "näemme, tapaamme"
+	},
+	{
+		"saann": "vuõinnlõõttâp-a",
+		"kappale": "kp4",
+		"suomi": "näemmekö, tapaammeko"
+	},
+	{
+		"saann": "vuei'nnep",
+		"kappale": "kp4",
+		"suomi": "näemme"
+	},
+	{
+		"saann": "jâđđa",
+		"kappale": "kp4",
+		"suomi": "huomenna"
+	},
+	{
+		"saann": "vueiʹtted",
+		"kappale": "kp4",
+		"suomi": "voida"
+	},
+	{
+		"saann": "vuäitt",
+		"kappale": "kp4",
+		"suomi": "voi"
+	},
+	{
+		"saann": "åʹrnn",
+		"kappale": "kp4",
+		"suomi": "luona"
+	},
+	{
+		"saann": "na",
+		"kappale": "kp4",
+		"suomi": "no"
+	},
+	{
+		"saann": "puäʹđ mâka",
+		"kappale": "kp4",
+		"suomi": "tulepas"
+	},
+	{
+		"saann": "vuõinnlõõttâp",
+		"kappale": "kp4",
+		"suomi": "nähkäämme"
+	},
+	{
+		"saann": "mõõn tiõrvân",
+		"kappale": "kp4",
+		"suomi": "mene terveenä"
+	},
+	{
+		"saann": "kuâssa",
+		"kappale": "kp5",
+		"suomi": "kylään, kylästelemään, vieraisille"
+	},
+	{
+		"saann": "neljdpeiʹvv",
+		"kappale": "kp5",
+		"suomi": "torstai"
+	},
+	{
+		"saann": "neljdpeeiʹv",
+		"kappale": "kp5",
+		"suomi": "torstaina, torstait, torstain"
+	},
+	{
+		"saann": "neljdpeeiʹvest",
+		"kappale": "kp5",
+		"suomi": "torstaista"
+	},
+	{
+		"saann": "neljdpeivva",
+		"kappale": "kp5",
+		"suomi": "torstaihin"
+	},
+	{
+		"saann": "go",
+		"kappale": "kp5",
+		"suomi": "kun"
+	},
+	{
+		"saann": "årra",
+		"kappale": "kp5",
+		"suomi": "luokse"
+	},
+	{
+		"saann": "vuõssvuâra",
+		"kappale": "kp5",
+		"suomi": "ensimmäistä kertaa"
+	},
+	{
+		"saann": "puäʹđ tiõrvân",
+		"kappale": "kp5",
+		"suomi": "tervetuloa"
+	},
+	{
+		"saann": "mõõnnâd",
+		"kappale": "kp5",
+		"suomi": "mennä"
+	},
+	{
+		"saann": "mâânn",
+		"kappale": "kp5",
+		"suomi": "menee"
+	},
+	{
+		"saann": "mõõn",
+		"kappale": "kp5",
+		"suomi": "mene"
+	},
+	{
+		"saann": "mõõnnâp",
+		"kappale": "kp5",
+		"suomi": "menemme"
+	},
+	{
+		"saann": "ǩeʹttempõrtt",
+		"kappale": "kp5",
+		"suomi": "keittiö"
+	},
+	{
+		"saann": "ǩeʹttempõõrt",
+		"kappale": "kp5",
+		"suomi": "keittiöt, keittiön"
+	},
+	{
+		"saann": "keʹttempõʹrtte",
+		"kappale": "kp5",
+		"suomi": "keittiöön"
+	},
+	{
+		"saann": "kaaʹfstõõllâd",
+		"kappale": "kp5",
+		"suomi": "kahvistella"
+	},
+	{
+		"saann": "viikkâd",
+		"kappale": "kp5",
+		"suomi": "viedä"
+	},
+	{
+		"saann": "veekk",
+		"kappale": "kp5",
+		"suomi": "vie"
+	},
+	{
+		"saann": "viiǥǥ!",
+		"kappale": "kp5",
+		"suomi": "vie!"
+	},
+	{
+		"saann": "kaaʹff",
+		"kappale": "kp5",
+		"suomi": "kahvi"
+	},
+	{
+		"saann": "kaaʹf",
+		"kappale": "kp5",
+		"suomi": "kahvit, kahvin"
+	},
+	{
+		"saann": "kaaʹfest",
+		"kappale": "kp5",
+		"suomi": "kahvista"
+	},
+	{
+		"saann": "kaʹffe",
+		"kappale": "kp5",
+		"suomi": "kahviin"
+	},
+	{
+		"saann": "kaaʹfid",
+		"kappale": "kp5",
+		"suomi": "kahvit, kahveja"
+	},
+	{
+		"saann": "leiʹbb",
+		"kappale": "kp5",
+		"suomi": "leipä"
+	},
+	{
+		"saann": "leeiʹb",
+		"kappale": "kp5",
+		"suomi": "leivät, leivän"
+	},
+	{
+		"saann": "leeiʹbest",
+		"kappale": "kp5",
+		"suomi": "leivästä"
+	},
+	{
+		"saann": "leibba",
+		"kappale": "kp5",
+		"suomi": "leipään"
+	},
+	{
+		"saann": "leeiʹbid",
+		"kappale": "kp5",
+		"suomi": "leivät, leipiä"
+	},
+	{
+		"saann": "påʹrdd",
+		"kappale": "kp5",
+		"suomi": "pöytä"
+	},
+	{
+		"saann": "pååʹrd",
+		"kappale": "kp5",
+		"suomi": "pöydät, pöydän"
+	},
+	{
+		"saann": "pååʹrdest",
+		"kappale": "kp5",
+		"suomi": "pöydästä"
+	},
+	{
+		"saann": "pårdda",
+		"kappale": "kp5",
+		"suomi": "pöytään"
+	},
+	{
+		"saann": "miten",
+		"kappale": "kp5",
+		"suomi": "mäʹhtt"
+	},
+	{
+		"saann": "späʹsseb",
+		"kappale": "kp5",
+		"suomi": "kiitos"
+	},
+	{
+		"saann": "aivv",
+		"kappale": "kp5",
+		"suomi": "aivan"
+	},
+	{
+		"saann": "puârast",
+		"kappale": "kp5",
+		"suomi": "hyvin"
+	},
+	{
+		"saann": "kâkkvââ jiâlčak",
+		"kappale": "kp5",
+		"suomi": "mitä kuuluu?"
+	},
+	{
+		"saann": "jiâlčed",
+		"kappale": "kp5",
+		"suomi": "elellä"
+	},
+	{
+		"saann": "jiâlčak",
+		"kappale": "kp5",
+		"suomi": "elelet"
+	},
+	{
+		"saann": "jiâlčam",
+		"kappale": "kp5",
+		"suomi": "elelen"
+	},
+	{
+		"saann": "jiâlač",
+		"kappale": "kp5",
+		"suomi": "elelee"
+	},
+	{
+		"saann": "jiâlâč",
+		"kappale": "kp5",
+		"suomi": "elele"
+	},
+	{
+		"saann": "tiõrvân",
+		"kappale": "kp5",
+		"suomi": "terveenä"
+	},
+	{
+		"saann": "kaa'ffpodd",
+		"kappale": "kp6",
+		"suomi": "kahvihetki"
+	},
+	{
+		"saann": "kaa'ffpooddâst",
+		"kappale": "kp6",
+		"suomi": "kahvihetkestä"
+	},
+	{
+		"saann": "kaaʹffpoʹdde",
+		"kappale": "kp6",
+		"suomi": "kahvihetkeen"
+	},
+	{
+		"saann": "išttâd",
+		"kappale": "kp6",
+		"suomi": "istuutua"
+	},
+	{
+		"saann": "eštt",
+		"kappale": "kp6",
+		"suomi": "istuutuu"
+	},
+	{
+		"saann": "iišt",
+		"kappale": "kp6",
+		"suomi": "istu"
+	},
+	{
+		"saann": "eʹštte",
+		"kappale": "kp6",
+		"suomi": "istuutuvat"
+	},
+	{
+		"saann": "kaaʹffpåʹrdd",
+		"kappale": "kp6",
+		"suomi": "kahvipöytä"
+	},
+	{
+		"saann": "kaaʹffpåård",
+		"kappale": "kp6",
+		"suomi": "kahvipöydät, kahvipöydän"
+	},
+	{
+		"saann": "kaaʹffpååʹrdest",
+		"kappale": "kp6",
+		"suomi": "kahvipöydästä"
+	},
+	{
+		"saann": "kaaʹffpårdda",
+		"kappale": "kp6",
+		"suomi": "kahvipöytään"
+	},
+	{
+		"saann": "haaʹlääk-a",
+		"kappale": "kp6",
+		"suomi": "haluatko"
+	},
+	{
+		"saann": "avi",
+		"kappale": "kp6",
+		"suomi": "vai"
+	},
+	{
+		"saann": "čee",
+		"kappale": "kp6",
+		"suomi": "tee, teet, teen"
+	},
+	{
+		"saann": "čeeʹjest",
+		"kappale": "kp6",
+		"suomi": "teestä"
+	},
+	{
+		"saann": "čeeja",
+		"kappale": "kp6",
+		"suomi": "teehen"
+	},
+	{
+		"saann": "väʹldded",
+		"kappale": "kp6",
+		"suomi": "ottaa"
+	},
+	{
+		"saann": "väldd",
+		"kappale": "kp6",
+		"suomi": "ottaa"
+	},
+	{
+		"saann": "vääʹld",
+		"kappale": "kp6",
+		"suomi": "ota"
+	},
+	{
+		"saann": "vääldam",
+		"kappale": "kp6",
+		"suomi": "otan"
+	},
+	{
+		"saann": "lij-a",
+		"kappale": "kp6",
+		"suomi": "onko"
+	},
+	{
+		"saann": "tuʹst",
+		"kappale": "kp6",
+		"suomi": "sinulla"
+	},
+	{
+		"saann": "säähhar",
+		"kappale": "kp6",
+		"suomi": "sokeri, sokerit, sokerin"
+	},
+	{
+		"saann": "säähhrest",
+		"kappale": "kp6",
+		"suomi": "sokerista"
+	},
+	{
+		"saann": "säähhra",
+		"kappale": "kp6",
+		"suomi": "sokeriin"
+	},
+	{
+		"saann": "täʹltte",
+		"kappale": "kp6",
+		"suomi": "kas tässä"
+	},
+	{
+		"saann": "juukkâd",
+		"kappale": "kp6",
+		"suomi": "juoda"
+	},
+	{
+		"saann": "jookk",
+		"kappale": "kp6",
+		"suomi": "juo"
+	},
+	{
+		"saann": "juuǥǥ",
+		"kappale": "kp6",
+		"suomi": "juo!"
+	},
+	{
+		"saann": "juuǥǥak-a",
+		"kappale": "kp6",
+		"suomi": "juotko"
+	},
+	{
+		"saann": "mieʹlǩǩ",
+		"kappale": "kp6",
+		"suomi": "maito"
+	},
+	{
+		"saann": "mieʹlǩ",
+		"kappale": "kp6",
+		"suomi": "maidot, maidon"
+	},
+	{
+		"saann": "mieʹlǩest",
+		"kappale": "kp6",
+		"suomi": "maidosta"
+	},
+	{
+		"saann": "meâlkka",
+		"kappale": "kp6",
+		"suomi": "maitoon"
+	},
+	{
+		"saann": "mieälǩin",
+		"kappale": "kp6",
+		"suomi": "maidolla, maidon kanssa"
+	},
+	{
+		"saann": "mieʹlǩtaa",
+		"kappale": "kp6",
+		"suomi": "maidotta, ilman maitoa"
+	},
+	{
+		"saann": "jiõm",
+		"kappale": "kp6",
+		"suomi": "en"
+	},
+	{
+		"saann": "taarbšed",
+		"kappale": "kp6",
+		"suomi": "tarvita"
+	},
+	{
+		"saann": "taarbaš",
+		"kappale": "kp6",
+		"suomi": "tarvitsee"
+	},
+	{
+		"saann": "taarbâž",
+		"kappale": "kp6",
+		"suomi": "tarvitse"
+	},
+	{
+		"saann": "viõʹlǧǧesleeibaž",
+		"kappale": "kp6",
+		"suomi": "pulla"
+	},
+	{
+		"saann": "viõʹlǧǧesleeiba",
+		"kappale": "kp6",
+		"suomi": "pullat, pullan"
+	},
+	{
+		"saann": "jõs",
+		"kappale": "kp6",
+		"suomi": "jos"
+	}
+]

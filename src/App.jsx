@@ -6,23 +6,22 @@ import Home from './components/Home';
 import Vearbat from './components/quiz/Vearbat';
 import Nomenat from './components/quiz/Nomenat';
 import General from './components/quiz/General';
+import Kappale from './components/quiz/Kappale';
 
 import './App.css'
 
 function App() {
 
   return (
-    <BrowserRouter basename='/'>
+    <BrowserRouter basename='/koltta'>
       <>
         <Container>
           <Row>
-            <Header pageTitle="Sátneprográmma"/>
+            <Header pageTitle="Koltansaamen sanaharjoituksia"/>
           </Row>
           <Routes>
             <Route path = '/' element = {<Home/>} />
-            <Route path = '/vearbat' element = {<Vearbat/>} />
-            <Route path = '/nomenat' element = {<Nomenat/>} />
-            <Route path = '/general' element = {<General/>} />
+            <Route path = '/kappale' element = {<Kappale/>} />
         </Routes>
         </Container>
       </>
