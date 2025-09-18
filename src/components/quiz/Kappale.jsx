@@ -24,8 +24,8 @@ function Kappale() {
         axios.get('/satnis/kappale.json').then(response => {
 			let satnis = response.data;
 			if (location.state !== null) {
-                if (typeof location.state.teema !== 'undefined') {
-                    satnis = satnis.filter((x)=> x.kappale === location.state.teema);
+                if (typeof location.state.kappale !== 'undefined') {
+                    satnis = satnis.filter((x)=> x.kappale === location.state.kappale);
                 } 
             }
             setSatnit(satnis);
