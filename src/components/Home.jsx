@@ -16,6 +16,8 @@ function Home() {
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp4'}}>Kappale 4</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp5'}}>Kappale 5</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp6'}}>Kappale 6</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp7'}}>Kappale 7</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp8'}}>Kappale 8</Link>
             </div>
             
         </Col>

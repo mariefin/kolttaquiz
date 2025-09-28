@@ -97,7 +97,7 @@
 	{
 		"saann": "vuäinn",
 		"kappale": "kp1",
-		"suomi": "näkee"
+		"suomi": "(hän) näkee"
 	},
 	{
 		"saann": "vueiʹn",
@@ -177,7 +177,7 @@
 	{
 		"saann": "haaʹlad",
 		"kappale": "kp1",
-		"suomi": "haluaa"
+		"suomi": "(hän) haluaa"
 	},
 	{
 		"saann": "tobdstõõttâd",
@@ -322,7 +322,7 @@
 	{
 		"saann": "juätkk",
 		"kappale": "kp3",
-		"suomi": "jatkaa"
+		"suomi": "(hän) jatkaa"
 	},
 	{
 		"saann": "jueʹtǩ",
@@ -392,7 +392,7 @@
 	{
 		"saann": "jäälast",
 		"kappale": "kp3",
-		"suomi": "asuu"
+		"suomi": "(hän) asuu"
 	},
 	{
 		"saann": "jäälast",
@@ -552,7 +552,7 @@
 	{
 		"saann": "vuäitt",
 		"kappale": "kp4",
-		"suomi": "voi"
+		"suomi": "(hän) voi"
 	},
 	{
 		"saann": "åʹrnn",
@@ -632,7 +632,7 @@
 	{
 		"saann": "mâânn",
 		"kappale": "kp5",
-		"suomi": "menee"
+		"suomi": "(hän) menee"
 	},
 	{
 		"saann": "mõõn",
@@ -672,7 +672,7 @@
 	{
 		"saann": "veekk",
 		"kappale": "kp5",
-		"suomi": "vie"
+		"suomi": "(hän) vie"
 	},
 	{
 		"saann": "viiǥǥ!",
@@ -892,7 +892,7 @@
 	{
 		"saann": "väldd",
 		"kappale": "kp6",
-		"suomi": "ottaa"
+		"suomi": "(hän) ottaa"
 	},
 	{
 		"saann": "vääʹld",
@@ -942,7 +942,7 @@
 	{
 		"saann": "jookk",
 		"kappale": "kp6",
-		"suomi": "juo"
+		"suomi": "(hän) juo"
 	},
 	{
 		"saann": "juuǥǥ",
@@ -1018,5 +1018,870 @@
 		"saann": "jõs",
 		"kappale": "kp6",
 		"suomi": "jos"
+	},
+	{
+		"saann": "puõcci",
+		"kappale": "kp7",
+		"suomi": "sairas"
+	},
+	{
+		"saann": "puõʒʒi",
+		"kappale": "kp7",
+		"suomi": "sairaat, sairaan"
+	},
+	{
+		"saann": "juʹrdded",
+		"kappale": "kp7",
+		"suomi": "luulla, ajatella"
+	},
+	{
+		"saann": "jordd",
+		"kappale": "kp7",
+		"suomi": "(hän) luulee"
+	},
+	{
+		"saann": "juuʹrd",
+		"kappale": "kp7",
+		"suomi": "luule!"
+	},
+	{
+		"saann": "što",
+		"kappale": "kp7",
+		"suomi": "että"
+	},
+	{
+		"saann": "nijdd",
+		"kappale": "kp7",
+		"suomi": "tyttö"
+	},
+	{
+		"saann": "niõđ",
+		"kappale": "kp7",
+		"suomi": "tytöt, tytön"
+	},
+	{
+		"saann": "niõđâst",
+		"kappale": "kp7",
+		"suomi": "tytöltä"
+	},
+	{
+		"saann": "niʹjdde",
+		"kappale": "kp7",
+		"suomi": "tytölle"
+	},
+	{
+		"saann": "reäkkad",
+		"kappale": "kp7",
+		"suomi": "itkeä"
+	},
+	{
+		"saann": "reäkk",
+		"kappale": "kp7",
+		"suomi": "(hän) itkee"
+	},
+	{
+		"saann": "reäǥǥ",
+		"kappale": "kp7",
+		"suomi": "itke!"
+	},
+	{
+		"saann": "tieʹtted",
+		"kappale": "kp7",
+		"suomi": "tietää"
+	},
+	{
+		"saann": "teâtt",
+		"kappale": "kp7",
+		"suomi": "(hän) tietää"
+	},
+	{
+		"saann": "tieʹđ",
+		"kappale": "kp7",
+		"suomi": "tiedä"
+	},
+	{
+		"saann": "čâʹlmm",
+		"kappale": "kp7",
+		"suomi": "silmä"
+	},
+	{
+		"saann": "čââʹlm",
+		"kappale": "kp7",
+		"suomi": "silmät, silmän"
+	},
+	{
+		"saann": "čââʹlmest",
+		"kappale": "kp7",
+		"suomi": "silmästä"
+	},
+	{
+		"saann": "čâlmma",
+		"kappale": "kp7",
+		"suomi": "silmään"
+	},
+	{
+		"saann": "njuuʹnn",
+		"kappale": "kp7",
+		"suomi": "nenä"
+	},
+	{
+		"saann": "njuuʹnn",
+		"kappale": "kp7",
+		"suomi": "nenät, nenän"
+	},
+	{
+		"saann": "njuuʹnest",
+		"kappale": "kp7",
+		"suomi": "nenästä"
+	},
+	{
+		"saann": "njonna",
+		"kappale": "kp7",
+		"suomi": "nenään"
+	},
+	{
+		"saann": "kolggâd",
+		"kappale": "kp7",
+		"suomi": "vuotaa"
+	},
+	{
+		"saann": "kåʹõǧǧe",
+		"kappale": "kp7",
+		"suomi": "vuotavat"
+	},
+	{
+		"saann": "koolǧ",
+		"kappale": "kp7",
+		"suomi": "vuoda!"
+	},
+	{
+		"saann": "vueiʹvv",
+		"kappale": "kp7",
+		"suomi": "pää"
+	},
+	{
+		"saann": "vueiʹv",
+		"kappale": "kp7",
+		"suomi": "päät, pään"
+	},
+	{
+		"saann": "vueiʹvest",
+		"kappale": "kp7",
+		"suomi": "päässä"
+	},
+	{
+		"saann": "vuäivva",
+		"kappale": "kp7",
+		"suomi": "päähän"
+	},
+	{
+		"saann": "čueʹcced",
+		"kappale": "kp7",
+		"suomi": "särkeä"
+	},
+	{
+		"saann": "čuâčč",
+		"kappale": "kp7",
+		"suomi": "(sitä) särkee"
+	},
+	{
+		"saann": "čueʹʒʒ",
+		"kappale": "kp7",
+		"suomi": "särje!"
+	},
+	{
+		"saann": "žaar",
+		"kappale": "kp7",
+		"suomi": "kuume"
+	},
+	{
+		"saann": "paakkâs",
+		"kappale": "kp7",
+		"suomi": "kuuma"
+	},
+	{
+		"saann": "vuâsti",
+		"kappale": "kp7",
+		"suomi": "varmaan, varmasti"
+	},
+	{
+		"saann": "čuuʹt",
+		"kappale": "kp7",
+		"suomi": "kovin, aivan"
+	},
+	{
+		"saann": "viõǧǧtem",
+		"kappale": "kp7",
+		"suomi": "voimaton"
+	},
+	{
+		"saann": "viõǧǧteʹmes",
+		"kappale": "kp7",
+		"suomi": "#voimaton"
+	},
+	{
+		"saann": "kõlmstõõllâd",
+		"kappale": "kp7",
+		"suomi": "palella"
+	},
+	{
+		"saann": "kõlmstââll",
+		"kappale": "kp7",
+		"suomi": "(hän) palelee"
+	},
+	{
+		"saann": "kõlmstõõl",
+		"kappale": "kp7",
+		"suomi": "palele!"
+	},
+	{
+		"saann": "čuuʹt kõlmstõõlam",
+		"kappale": "kp7",
+		"suomi": "palelen kovasti"
+	},
+	{
+		"saann": "soiʹttjed",
+		"kappale": "kp7",
+		"suomi": "soittaa"
+	},
+	{
+		"saann": "soiʹttai",
+		"kappale": "kp7",
+		"suomi": "(hän) soittaa"
+	},
+	{
+		"saann": "soiʹtte",
+		"kappale": "kp7",
+		"suomi": "soita"
+	},
+	{
+		"saann": "leäk-a soiʹttjam",
+		"kappale": "kp7",
+		"suomi": "oletko soittanut"
+	},
+	{
+		"saann": "dåhttar",
+		"kappale": "kp7",
+		"suomi": "lääkäri, lääkärit, lääkärin"
+	},
+	{
+		"saann": "ooccâd",
+		"kappale": "kp7",
+		"suomi": "hakea, etsiä"
+	},
+	{
+		"saann": "ååcc",
+		"kappale": "kp7",
+		"suomi": "(hän) hakee, etsii"
+	},
+	{
+		"saann": "ooʒʒ",
+		"kappale": "kp7",
+		"suomi": "hae, etsi"
+	},
+	{
+		"saann": "ooʒʒam",
+		"kappale": "kp7",
+		"suomi": "haen"
+	},
+	{
+		"saann": "nââmar",
+		"kappale": "kp7",
+		"suomi": "numero, numerot, numeron"
+	},
+	{
+		"saann": "nââmrest",
+		"kappale": "kp7",
+		"suomi": "numerosta"
+	},
+	{
+		"saann": "nââmra",
+		"kappale": "kp7",
+		"suomi": "numeroon"
+	},
+	{
+		"saann": "suåppâd",
+		"kappale": "kp7",
+		"suomi": "sopia"
+	},
+	{
+		"saann": "suäpp",
+		"kappale": "kp7",
+		"suomi": "(hän) sopii"
+	},
+	{
+		"saann": "suåv",
+		"kappale": "kp7",
+		"suomi": "sovi"
+	},
+	{
+		"saann": "suåvak",
+		"kappale": "kp7",
+		"suomi": "sovit"
+	},
+	{
+		"saann": "äiʹǧǧ",
+		"kappale": "kp7",
+		"suomi": "aika"
+	},
+	{
+		"saann": "ääiʹj",
+		"kappale": "kp7",
+		"suomi": "ajat, ajan, aikaa"
+	},
+	{
+		"saann": "tiõrvâsvuõttpõrtt",
+		"kappale": "kp7",
+		"suomi": "terveystalo"
+	},
+	{
+		"saann": "mainsted",
+		"kappale": "kp7",
+		"suomi": "puhua"
+	},
+	{
+		"saann": "maainast",
+		"kappale": "kp7",
+		"suomi": "(hän) puhuu"
+	},
+	{
+		"saann": "maainâst",
+		"kappale": "kp7",
+		"suomi": "puhu"
+	},
+	{
+		"saann": "bieʹll",
+		"kappale": "kp7",
+		"suomi": "puoli"
+	},
+	{
+		"saann": "beäʹlest",
+		"kappale": "kp7",
+		"suomi": "puolesta"
+	},
+	{
+		"saann": "päkkad",
+		"kappale": "kp7",
+		"suomi": "käskeä"
+	},
+	{
+		"saann": "päkk",
+		"kappale": "kp7",
+		"suomi": "(hän) käskee"
+	},
+	{
+		"saann": "pääkk",
+		"kappale": "kp7",
+		"suomi": "käske"
+	},
+	{
+		"saann": "tâʹlles",
+		"kappale": "kp7",
+		"suomi": "heti"
+	},
+	{
+		"saann": "mâʹnne",
+		"kappale": "kp7",
+		"suomi": "menevät"
+	},
+	{
+		"saann": "autt",
+		"kappale": "kp7",
+		"suomi": "auto"
+	},
+	{
+		"saann": "aaut",
+		"kappale": "kp7",
+		"suomi": "autot, auton"
+	},
+	{
+		"saann": "aautâst",
+		"kappale": "kp7",
+		"suomi": "autosta"
+	},
+	{
+		"saann": "auʹtte",
+		"kappale": "kp7",
+		"suomi": "autoon"
+	},
+	{
+		"saann": "aautin",
+		"kappale": "kp7",
+		"suomi": "autolla"
+	},
+	{
+		"saann": "tuʹtǩǩeed",
+		"kappale": "kp8",
+		"suomi": "tutkia"
+	},
+	{
+		"saann": "tuʹtǩǩad",
+		"kappale": "kp8",
+		"suomi": "(hän) tutkii"
+	},
+	{
+		"saann": "tuʹtǩǩed",
+		"kappale": "kp8",
+		"suomi": "tutki"
+	},
+	{
+		"saann": "ceäʹlǩǩed",
+		"kappale": "kp8",
+		"suomi": "sanoa"
+	},
+	{
+		"saann": "ceälkk",
+		"kappale": "kp8",
+		"suomi": "(hän) sanoo"
+	},
+	{
+		"saann": "cieʹlǩ",
+		"kappale": "kp8",
+		"suomi": "sanoa"
+	},
+	{
+		"saann": "kooig",
+		"kappale": "kp8",
+		"suomi": "mihin, minne"
+	},
+	{
+		"saann": "nuõpp",
+		"kappale": "kp8",
+		"suomi": "nuha"
+	},
+	{
+		"saann": "nuõv",
+		"kappale": "kp8",
+		"suomi": "nuhat, nuhan"
+	},
+	{
+		"saann": "nuõvâst",
+		"kappale": "kp8",
+		"suomi": "nuhasta"
+	},
+	{
+		"saann": "nuõʹppe",
+		"kappale": "kp8",
+		"suomi": "nuhaan"
+	},
+	{
+		"saann": "čåuʹjjkõpp",
+		"kappale": "kp8",
+		"suomi": "mahatauti"
+	},
+	{
+		"saann": "čåuʹjjkõõv",
+		"kappale": "kp8",
+		"suomi": "mahataudit, mahataudin"
+	},
+	{
+		"saann": "čåuʹjjkõõvâst",
+		"kappale": "kp8",
+		"suomi": "mahataudissa"
+	},
+	{
+		"saann": "čåuʹjjkõʹppe",
+		"kappale": "kp8",
+		"suomi": "mahatautiin"
+	},
+	{
+		"saann": "loojjted",
+		"kappale": "kp8",
+		"suomi": "olla ripulissa"
+	},
+	{
+		"saann": "suu loojjat",
+		"kappale": "kp8",
+		"suomi": "hänellä on ripuli"
+	},
+	{
+		"saann": "miâlggâd",
+		"kappale": "kp8",
+		"suomi": "melko, melkein"
+	},
+	{
+		"saann": "čõõđ ääiʹj",
+		"kappale": "kp8",
+		"suomi": "koko ajan"
+	},
+	{
+		"saann": "vââjj leeʹd",
+		"kappale": "kp8",
+		"suomi": "saattaa olla"
+	},
+	{
+		"saann": "käʹdded",
+		"kappale": "kp8",
+		"suomi": "luulla, epäillä"
+	},
+	{
+		"saann": "kädd",
+		"kappale": "kp8",
+		"suomi": "(hän) luulee, epäilee"
+	},
+	{
+		"saann": "kääʹdd",
+		"kappale": "kp8",
+		"suomi": "luule, epäile"
+	},
+	{
+		"saann": "allergia",
+		"kappale": "kp8",
+		"suomi": "allergia, allergiat, allergian"
+	},
+	{
+		"saann": "allergiast",
+		"kappale": "kp8",
+		"suomi": "allergiasta"
+	},
+	{
+		"saann": "allergiaaʹje",
+		"kappale": "kp8",
+		"suomi": "allergiaan"
+	},
+	{
+		"saann": "võrr",
+		"kappale": "kp8",
+		"suomi": "veri"
+	},
+	{
+		"saann": "võõr",
+		"kappale": "kp8",
+		"suomi": "veret, veren"
+	},
+	{
+		"saann": "võõrâst",
+		"kappale": "kp8",
+		"suomi": "verestä"
+	},
+	{
+		"saann": "võʹrre",
+		"kappale": "kp8",
+		"suomi": "vereen"
+	},
+	{
+		"saann": "võrrteʹstt",
+		"kappale": "kp8",
+		"suomi": "verikoe"
+	},
+	{
+		"saann": "võrrteeʹst",
+		"kappale": "kp8",
+		"suomi": "verikokeet, verikokeen"
+	},
+	{
+		"saann": "võrrteeʹstest",
+		"kappale": "kp8",
+		"suomi": "verikokeesta"
+	},
+	{
+		"saann": "võrrtestta",
+		"kappale": "kp8",
+		"suomi": "verikokeeseen"
+	},
+	{
+		"saann": "muʹštted",
+		"kappale": "kp8",
+		"suomi": "muistaa"
+	},
+	{
+		"saann": "moštt",
+		"kappale": "kp8",
+		"suomi": "(hän) muistaa"
+	},
+	{
+		"saann": "muuʹšt",
+		"kappale": "kp8",
+		"suomi": "muista"
+	},
+	{
+		"saann": "taalkâs",
+		"kappale": "kp8",
+		"suomi": "lääke"
+	},
+	{
+		"saann": "talkkâz",
+		"kappale": "kp8",
+		"suomi": "lääkkeet, lääkkeen"
+	},
+	{
+		"saann": "talkksest",
+		"kappale": "kp8",
+		"suomi": "lääkkeestä"
+	},
+	{
+		"saann": "talkksa",
+		"kappale": "kp8",
+		"suomi": "lääkkeeseen"
+	},
+	{
+		"saann": "tueʹlääi jeäʹǩǩääi",
+		"kappale": "kp8",
+		"suomi": "aamuin illoin"
+	},
+	{
+		"saann": "neäʹttel",
+		"kappale": "kp8",
+		"suomi": "viikko, viikot, viikon"
+	},
+	{
+		"saann": "neäʹttlest",
+		"kappale": "kp8",
+		"suomi": "viikosta"
+	},
+	{
+		"saann": "neäʹttla",
+		"kappale": "kp8",
+		"suomi": "viikkoon"
+	},
+	{
+		"saann": "ǩeeʹjjest",
+		"kappale": "kp8",
+		"suomi": "päästä, kuluttua"
+	},
+	{
+		"saann": "eʹpet",
+		"kappale": "kp8",
+		"suomi": "taas"
+	},
+	{
+		"saann": "tiiʹǩ",
+		"kappale": "kp8",
+		"suomi": "tänne"
+	},
+	{
+		"saann": "ǩiõččâs",
+		"kappale": "kp8",
+		"suomi": "katsoa"
+	},
+	{
+		"saann": "ǩeäčč",
+		"kappale": "kp8",
+		"suomi": "(hän) katsoo"
+	},
+	{
+		"saann": "ǩiõčč",
+		"kappale": "kp8",
+		"suomi": "katso"
+	},
+	{
+		"saann": "ǩiõččâp",
+		"kappale": "kp8",
+		"suomi": "katsomme"
+	},
+	{
+		"saann": "kaunnâd",
+		"kappale": "kp8",
+		"suomi": "löytää"
+	},
+	{
+		"saann": "käunn",
+		"kappale": "kp8",
+		"suomi": "(hän) löytää"
+	},
+	{
+		"saann": "kaaun",
+		"kappale": "kp8",
+		"suomi": "löydä"
+	},
+	{
+		"saann": "kaunnâp",
+		"kappale": "kp8",
+		"suomi": "löydämme"
+	},
+	{
+		"saann": "tättad",
+		"kappale": "kp8",
+		"suomi": "tahtoa"
+	},
+	{
+		"saann": "tätt",
+		"kappale": "kp8",
+		"suomi": "(hän) tahtoo"
+	},
+	{
+		"saann": "täätt",
+		"kappale": "kp8",
+		"suomi": "tahdo"
+	},
+	{
+		"saann": "hoiʹddjed",
+		"kappale": "kp8",
+		"suomi": "hoitaa"
+	},
+	{
+		"saann": "hoiʹddai",
+		"kappale": "kp8",
+		"suomi": "(hän) hoitaa"
+	},
+	{
+		"saann": "hoiʹdde",
+		"kappale": "kp8",
+		"suomi": "hoida"
+	},
+	{
+		"saann": "põõssâd",
+		"kappale": "kp8",
+		"suomi": "pestä"
+	},
+	{
+		"saann": "pââss",
+		"kappale": "kp8",
+		"suomi": "(hän) pesee"
+	},
+	{
+		"saann": "põõzz",
+		"kappale": "kp8",
+		"suomi": "pese"
+	},
+	{
+		"saann": "šâʹldd",
+		"kappale": "kp8",
+		"suomi": "lattia"
+	},
+	{
+		"saann": "šââʹld",
+		"kappale": "kp8",
+		"suomi": "lattiat, lattian"
+	},
+	{
+		"saann": "šââʹldest",
+		"kappale": "kp8",
+		"suomi": "lattiasta"
+	},
+	{
+		"saann": "šâldda",
+		"kappale": "kp8",
+		"suomi": "lattiaan, lattialle"
+	},
+	{
+		"saann": "šõõʹldid",
+		"kappale": "kp8",
+		"suomi": "lattiat, lattioita, lattioille, lattioihin"
+	},
+	{
+		"saann": "ǩeʹtted",
+		"kappale": "kp8",
+		"suomi": "keittää"
+	},
+	{
+		"saann": "ǩeâtt",
+		"kappale": "kp8",
+		"suomi": "(hän) keittää"
+	},
+	{
+		"saann": "ǩeeʹtt",
+		"kappale": "kp8",
+		"suomi": "keitä"
+	},
+	{
+		"saann": "veärr",
+		"kappale": "kp8",
+		"suomi": "soppa"
+	},
+	{
+		"saann": "veär",
+		"kappale": "kp8",
+		"suomi": "sopat, sopan"
+	},
+	{
+		"saann": "veärast",
+		"kappale": "kp8",
+		"suomi": "sopasta"
+	},
+	{
+		"saann": "viârru",
+		"kappale": "kp8",
+		"suomi": "soppaan"
+	},
+	{
+		"saann": "vueiʹt",
+		"kappale": "kp8",
+		"suomi": "voi, jaksa!"
+	},
+	{
+		"saann": "jâđđa",
+		"kappale": "kp8",
+		"suomi": "huomenna"
+	},
+	{
+		"saann": "âlgg-a",
+		"kappale": "kp8",
+		"suomi": "pitääkõ"
+	},
+	{
+		"saann": "puʹhtted",
+		"kappale": "kp8",
+		"suomi": "tuoda"
+	},
+	{
+		"saann": "pohtt",
+		"kappale": "kp8",
+		"suomi": "(hän) tuo"
+	},
+	{
+		"saann": "puuʹt",
+		"kappale": "kp8",
+		"suomi": "tuo"
+	},
+	{
+		"saann": "mâid-ne",
+		"kappale": "kp8",
+		"suomi": "jotain"
+	},
+	{
+		"saann": "uʹvdded",
+		"kappale": "kp8",
+		"suomi": "antaa"
+	},
+	{
+		"saann": "oudd",
+		"kappale": "kp8",
+		"suomi": "(hän) antaa"
+	},
+	{
+		"saann": "uuʹd",
+		"kappale": "kp8",
+		"suomi": "anna"
+	},
+	{
+		"saann": "puõʹlli",
+		"kappale": "kp8",
+		"suomi": "kuuma"
+	},
+	{
+		"saann": "mueʹrjjsäʹpp",
+		"kappale": "kp8",
+		"suomi": "marjamehu"
+	},
+	{
+		"saann": "mueʹrjjsääʹpp",
+		"kappale": "kp8",
+		"suomi": "marjamehut, marjamehun"
+	},
+	{
+		"saann": "mueʹrjjsääʹppest",
+		"kappale": "kp8",
+		"suomi": "marjamehusta"
+	},
+	{
+		"saann": "mueʹrjjsäppa",
+		"kappale": "kp8",
+		"suomi": "marjamehuun"
+	},
+	{
+		"saann": "tuʹvdded",
+		"kappale": "kp8",
+		"suomi": "peitellä"
+	},
+	{
+		"saann": "toudd",
+		"kappale": "kp8",
+		"suomi": "(hän) peittelee"
+	},
+	{
+		"saann": "tuuʹd",
+		"kappale": "kp8",
+		"suomi": "peittele"
 	}
 ]

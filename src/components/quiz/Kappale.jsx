@@ -13,6 +13,7 @@ function Kappale() {
     const [answers, setAnswers] = useState([]);
     const [showScore, setShowScore] = useState(false);
     const [satnit, setSatnit] = useState([{"tät": "tämä"}]);
+    const [usedSatnit, setUsedSatnit] = useState([]);
     const [currentSatni, setCurrentSatni] = useState(0);
     const maxQuestions = 10;
     const [nextQuestion, setNextQuestion] = useState(true);
@@ -29,7 +30,9 @@ function Kappale() {
                 } 
             }
             setSatnit(satnis);
-            setCurrentSatni(Math.floor(Math.random() * satnis.length));
+            const satnisIndex = Math.floor(Math.random() * satnis.length);
+            setCurrentSatni(satnisIndex);
+            setUsedSatnit([satnis[satnisIndex]['saann']]);
         });
     }, [location.state]);
     
@@ -40,11 +43,23 @@ function Kappale() {
         setAnswers(updatedAnswers);
     };
 
+    const handleNewSatni = () => {
+        const satniIndex = Math.floor(Math.random() * satnit.length);
+        const chosenSatni = satnit[satniIndex]['saann'];
+        if (usedSatnit.includes(chosenSatni)) {
+            handleNewSatni();
+        } else {
+            setCurrentSatni(satniIndex);
+            setUsedSatnit([...usedSatnit, chosenSatni]);
+        }
+    }
+
 
     const handleNextQuestion = () => {
         if (currentQuestion + 1 < maxQuestions) {
             setCurrentQuestion(currentQuestion + 1);
-            setCurrentSatni(Math.floor(Math.random() * satnit.length));
+            // setCurrentSatni(Math.floor(Math.random() * satnit.length));
+            handleNewSatni();
             setNextQuestion(true);
             setQuestion(false);
             setInputAnswer("");
@@ -62,6 +77,16 @@ function Kappale() {
         setNextQuestion(false);
         setQuestion(true);
     };
+
+    const handleEnter = (e) => {
+         if (e.key === 'Enter') {
+            if (nextQuestion) {
+                checkSatni();
+            } else if (checkQuestion) {
+                handleNextQuestion();
+            }
+        }
+    }
 
     return (
       <>
@@ -83,6 +108,7 @@ function Kappale() {
                     onChange={(e) =>
                     handleAnswerSelection(currentQuestion, e.target.value)
                     }
+                    onKeyDown = {(e) => handleEnter(e)}
                     className="custom-input"
                     value={inputAnswer}
                 />
