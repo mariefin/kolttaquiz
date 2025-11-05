@@ -9,7 +9,7 @@ function Home() {
             <h2>Tiõrv pueđttem! / Tervetuloa</h2>
             <p>Sivuston tarkoituksena on auttaa koltansaamen sanojen taivutusten harjoittelussa</p>
             <h3>Tiõrv-kirjan kappalaiden sanastot</h3>
-            <div><Link to="/kappale" className="btn btn-primary me-2 mb-2">Kappaleiden sanat</Link>
+            <div><Link to="/kappale" className="btn btn-primary me-2 mb-2">Kappaleiden kaikki sanat</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp1'}}>Kappale 1</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp2'}}>Kappale 2</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp3'}}>Kappale 3</Link>
@@ -18,6 +18,15 @@ function Home() {
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp6'}}>Kappale 6</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp7'}}>Kappale 7</Link>
             <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kp8'}}>Kappale 8</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl9'}}>Kappale 9</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl10'}}>Kappale 10</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl11'}}>Kappale 11</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl12'}}>Kappale 12</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl13'}}>Kappale 13</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl14'}}>Kappale 14</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl15'}}>Kappale 15</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl16'}}>Kappale 16</Link>
+            <Link to="/kappale" className="btn btn-primary me-2 mb-2" state={{kappale:'kpl17'}}>Kappale 17</Link>
             </div>
             
         </Col>
